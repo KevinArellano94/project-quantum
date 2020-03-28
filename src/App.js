@@ -161,9 +161,54 @@ class App extends Component {
                         <a href="https://discord.gg/D9yrEv">
                           <img
                             src="https://cdn.discordapp.com/avatars/202237865151823883/a3cb20db58e83bc75137e72b2cf19c67.png?size=128"
+                            alt="{Quantum}#0001"
+                          />
+                          &#123;Quantum&#125;#0001
+                        </a>
+                        <a href="https://www.reddit.com/user/Quantum_Gaming">
+                          <img
+                            src="https://external-preview.redd.it/QJRqGgkUjhGSdu3vfpckrvg1UKzZOqX2BbglcLhjS70.png?auto=webp&s=c681ae9c9b5021d81b6c4e3a2830f09eff2368b5"
+                            width="25"
+                            height="25"
+                            alt="u/Quantum_Gaming"
+                          />
+                          [ u/Quantum_Gaming ]
+                        </a>
+                        <a href="https://steamcommunity.com/id/QuantumVI/">
+                          <img
+                            src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"
+                            width="25"
+                            height="25"
+                            alt="QuantumVI"
+                          />
+                          [ QuantumVI ]
+                        </a>
+                        <a href="https://open.spotify.com/user/adrian1pro">
+                          <img
+                            src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png"
+                            width="25"
+                            height="25"
+                            alt="adrian1pro"
+                          />
+                          [ adrian1pro ]
+                        </a>
+                        <a href="https://www.twitch.tv/quantum_vi">
+                          <img
+                            src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022015/twitch.png?itok=i7AaEWe5"
+                            width="25"
+                            height="25"
+                            alt="quantum_vi"
+                          />
+                          [ quantum_vi ]
+                        </a>
+                        <a href="https://www.youtube.com/channel/UC31nROokQa6sWAAZxbapcRw">
+                          <img
+                            src="https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg"
+                            width="25"
+                            height="25"
                             alt="Quantum"
                           />
-                          <p>&#123;Quantum&#125;#0001</p>
+                          [ Quantum ]
                         </a>
                       </div>
                     </li>
@@ -174,7 +219,52 @@ class App extends Component {
                             src="https://cdn.discordapp.com/avatars/445360722998853632/8ee4563b45ce4ca104f31c840ade5499.png?size=128"
                             alt="Kevin Arellano"
                           />
-                          <p>IC443_SR_Medusa#1822</p>
+                          IC443_SR_Medusa#1822
+                        </a>
+                        <a href="https://www.reddit.com/user/KevinArellano94">
+                          <img
+                            src="https://external-preview.redd.it/QJRqGgkUjhGSdu3vfpckrvg1UKzZOqX2BbglcLhjS70.png?auto=webp&s=c681ae9c9b5021d81b6c4e3a2830f09eff2368b5"
+                            width="25"
+                            height="25"
+                            alt="u/KevinArellano94"
+                          />
+                          [ u/KevinArellano94 ]
+                        </a>
+                        <a href="https://steamcommunity.com/id/Metal_Girrr_94/">
+                          <img
+                            src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"
+                            width="25"
+                            height="25"
+                            alt="Metal_Girrr_94"
+                          />
+                          [ Metal_Girrr_94 ]
+                        </a>
+                        <a href="https://open.spotify.com/user/kevin.arellano94">
+                          <img
+                            src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png"
+                            width="25"
+                            height="25"
+                            alt="kevin.arellano94"
+                          />
+                          [ kevin.arellano94 ]
+                        </a>
+                        <a href="https://www.twitch.tv/kevinarellano94">
+                          <img
+                            src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022015/twitch.png?itok=i7AaEWe5"
+                            width="25"
+                            height="25"
+                            alt="kevinarellano94"
+                          />
+                          [ kevinarellano94 ]
+                        </a>
+                        <a href="https://www.youtube.com/channel/UClHn2FuUnrxXW07eJCYfazw">
+                          <img
+                            src="https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg"
+                            width="25"
+                            height="25"
+                            alt="Kevin Arellano"
+                          />
+                          [ Kevin Arellano ]
                         </a>
                       </div>
                     </li>
