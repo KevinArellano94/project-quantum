@@ -158,13 +158,9 @@ class App extends Component {
                     </li>
                     <li>
                       <div>
-                        <a href="https://discord.gg/mRm6mPx">
+                        <a href="https://discord.gg/D9yrEv">
                           <img
-                            src="https://cdn.discordapp.com/avatars/202237865151823883/a_124d1f45dc6fed8b2639020602f04b38.gif"
-                            alt="Quantum"
-                          />
-                          <img
-                            src="https://cdn.discordapp.com/avatars/202237865151823883/a_ab43c337e26949b8481fdcb147cd51bc.gif"
+                            src="https://cdn.discordapp.com/avatars/202237865151823883/a3cb20db58e83bc75137e72b2cf19c67.png?size=128"
                             alt="Quantum"
                           />
                           <p>&#123;Quantum&#124;#0001</p>
@@ -173,12 +169,12 @@ class App extends Component {
                     </li>
                     <li>
                       <div>
-                        <a href="https://discord.gg/mRm6mPx">
+                        <a href="https://discord.gg/D9yrEv">
                           <img
-                            src="https://cdn.discordapp.com/avatars/445360722998853632/871425d144f67af45cec33ccbf751484.png"
-                            alt="Kevin"
+                            src="https://cdn.discordapp.com/avatars/445360722998853632/8ee4563b45ce4ca104f31c840ade5499.png?size=128"
+                            alt="Kevin Arellano"
                           />
-                          <p>ɹǝʇsʌǝʞ ƃuıɥƃnɐl#1822</p>
+                          <p>IC443_SR_Medusa#1822</p>
                         </a>
                       </div>
                     </li>
