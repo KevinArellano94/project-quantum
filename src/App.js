@@ -41,6 +41,14 @@ class App extends Component {
                         Members
                       </a>
                     </li>
+                    <li>
+                      <a href="/projects">
+                        <span class="fa-li">
+                          <i class="fa fa-users" aria-hidden="true" />
+                        </span>
+                        Projects
+                      </a>
+                    </li>
                   </ul>
                 </div>
               );
