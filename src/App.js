@@ -163,7 +163,7 @@ class App extends Component {
                             src="https://cdn.discordapp.com/avatars/202237865151823883/a3cb20db58e83bc75137e72b2cf19c67.png?size=128"
                             alt="Quantum"
                           />
-                          <p>&#123;Quantum&#124;#0001</p>
+                          <p>&#123;Quantum&#125;#0001</p>
                         </a>
                       </div>
                     </li>
