@@ -41,14 +41,14 @@ class App extends Component {
                         Members
                       </a>
                     </li>
-                    {/* <li>
+                    <li>
                       <a href="/projects">
                         <span class="fa-li">
                           <i class="fa fa-users" aria-hidden="true" />
                         </span>
                         Projects
                       </a>
-                    </li> */}
+                    </li>
                   </ul>
                 </div>
               );
@@ -156,7 +156,7 @@ class App extends Component {
                         go back
                       </a>
                     </li>
-                    {/* <li>
+                    <li>
                       <div>
                         <a href="https://discord.gg/D9yrEv">
                           <img
@@ -268,7 +268,7 @@ class App extends Component {
                           [ Kevin Arellano ]
                         </a>
                       </div>
-                    </li> */}
+                    </li>
                   </ul>
                 </div>
               );
