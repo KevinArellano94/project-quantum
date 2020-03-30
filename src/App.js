@@ -156,7 +156,7 @@ class App extends Component {
                         go back
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <div>
                         <a href="https://discord.gg/D9yrEv">
                           <img
@@ -212,6 +212,7 @@ class App extends Component {
                         </a>
                       </div>
                     </li>
+                    <br />
                     <li>
                       <div>
                         <a href="https://discord.gg/D9yrEv">
@@ -267,7 +268,7 @@ class App extends Component {
                           [ Kevin Arellano ]
                         </a>
                       </div>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               );
