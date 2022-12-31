@@ -14,7 +14,7 @@ class App extends Component {
             render={() => {
               return (
                 <div>
-                  <h1 class="pretty-text">dev - Project Quantum</h1>
+                  <h1 class="pretty-text">staging - Project Quantum</h1>
                   <div data-netlify-identity-menu />
                   <ul class="fa-ul">
                     <li>
